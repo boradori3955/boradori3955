@@ -67,7 +67,7 @@ https://github.com/boradori3955/Chocolate_Vision_AI_Chatbot_System
 
 ## 📬 연락처
 
-| 📧 Email | jiho6821@naver.com |
+📧 Email: jiho6821@naver.com
 
 ---
 
