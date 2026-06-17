@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-<div align="center">
+<div>
 
 # 최지호의 GitHub입니다!
 
@@ -11,7 +11,7 @@
 
 ## 🛠️ 기술 스택
 
-<div align="center">
+<div>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
